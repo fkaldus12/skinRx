@@ -1,0 +1,11 @@
+.rolling.swiper-button-next,
+.swiper-button-prev {
+    color: red;
+}
+.product_box .swiper-button-next,
+.product_box .swiper-button-prev {
+    color: green;
+}
+.swiper-pagination-bullet-active {
+    background: green;
+}
